@@ -1,0 +1,1 @@
+собрать в 1 файл cat "/bitnami_airflow-3.2.1 (1).7z.part-"* > "/bitnami_airflow-3.2.1 (1).restored.7z"
